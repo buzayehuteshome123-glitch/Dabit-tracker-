@@ -1,0 +1,6 @@
+{
+  "name": "Debt Tracker",
+  "description": "Simple debt and credit tracking for small businesses in Ethiopian Birr with Amharic and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
